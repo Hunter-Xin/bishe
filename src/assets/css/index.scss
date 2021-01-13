@@ -1,0 +1,26 @@
+.side-border {
+  box-sizing: border-box;
+  width: 30%;
+  height: 210px;
+}
+.pos-left {
+  position: absolute;
+  left: 0;
+}
+.pos-right {
+  position: absolute;
+  left: 70%;
+}
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+.flex-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.charts1 {
+  width: 60%;
+  height: 100%;
+}
